@@ -28,8 +28,8 @@ Layout responsivo, adaptável para dispositivos móveis
 
 🔗 Como acessar
 
-Você pode visualizar a página online através do link:
-👉 
+Você pode visualizar a página online através do link: 
+👉 https://aquamarine-tartufo-106e4b.netlify.app/
 
 👩‍💻 Autor
 
