@@ -1,10 +1,10 @@
-#🌐 Projeto Landing Page
+🌐 #Projeto Landing Page
 
 Este repositório contém o desenvolvimento de uma Landing Page criada como parte do curso de Front-End.
 
 O objetivo do projeto é praticar e aplicar os conceitos fundamentais de HTML, CSS e JavaScript, desenvolvendo uma página responsiva, moderna e funcional.
 
-##🚀 Tecnologias utilizadas
+🚀 *Tecnologias utilizadas*
 
 HTML5 → estrutura da página
 
@@ -12,7 +12,7 @@ CSS3 → estilização e responsividade
 
 JavaScript → interatividade e dinamismo
 
-##🎯 Funcionalidades
+🎯 *Funcionalidades*
 
 Estrutura limpa e organizada em HTML
 
